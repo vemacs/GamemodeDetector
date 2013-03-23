@@ -1,0 +1,6 @@
+name: GamemodeDetector
+main: com.nullblock.vemacs.GamemodeDetector.GamemodeDetector
+version: 1.0.1
+description: A simple plugin displays a message whenever the gamemode of a player is changed and what the new gamemode is.
+author: vemacs
+website: http://nullblock.com/threads/plugin-gamemodedetector.196/
